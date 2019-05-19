@@ -21,5 +21,5 @@ for your operational system and follow the instruction. The Anaconda installer g
 you'll need for building up your primary codes.
 
 2) To check if the installation was successfull, open a command prompt on your Windows PC or a terminal on
-Linux or MacOS. Then write down the command: <conda list> which will show the list of installed packages
+Linux or MacOS. Then write down the command: *conda list* which will show the list of installed packages
 during the chosen PYTHON 2.X installation.
